@@ -1,7 +1,7 @@
 {
-  "name": "todolist",
+  "name": "package",
   "version": "1.0.0",
-  "description": "A simple todolist application made for The Odin Project.",
+  "description": "A Webpack project with Tailwind CSS and PostCSS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

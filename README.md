@@ -1,2 +1,3 @@
-# Webpack tailwindcss template
-A template for creating a webpack application that uses tailwindcss.
+# Webpack template
+
+A template for creating a webpack application that uses tailwindcss and PostCSS.
