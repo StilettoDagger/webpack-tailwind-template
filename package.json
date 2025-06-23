@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StilettoDagger/todolist.git"
+    "url": "git+https://github.com/StilettoDagger/webpack-tailwind-template.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/StilettoDagger/todolist/issues"
+    "url": "https://github.com/StilettoDagger/webpack-tailwind-template/issues"
   },
-  "homepage": "https://github.com/StilettoDagger/todolist#readme",
+  "homepage": "https://github.com/StilettoDagger/webpack-tailwind-template",
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.10",
     "autoprefixer": "^10.4.21",
