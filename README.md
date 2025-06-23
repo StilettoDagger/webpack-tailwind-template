@@ -1,2 +1,2 @@
-# todolist
-A simple todolist application made for The Odin Project.
+# Webpack tailwindcss template
+A template for creating a webpack application that uses tailwindcss.
