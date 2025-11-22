@@ -35,11 +35,10 @@ export default defineConfig([
 	},
 	{
 		files: [
-			"*.config.{js,cjs,mjs}",
-			"webpack*.{js,cjs,mjs}",
-			"scripts/**/*.{js,cjs,mjs}",
+			"*.config.{js,cjs}",
+			"webpack*.{js,cjs}",
+			"scripts/**/*.{js,cjs}",
 			"*.cjs",
-			"*.mjs",
 			"*.js",
 		],
 		extends: [js.configs.recommended],
